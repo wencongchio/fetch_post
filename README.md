@@ -6,8 +6,13 @@ API Endpoints:
 - GET https://jsonplaceholder.typicode.com/comments
 
 2 screens:
-- Screen 1: Fetch all the posts and display the title and content of posts. Click on post in the post list to navigate to new page showing the comments for the post.
-- Screen 2: Fetch all the comments for certain post. Display the post and username, email and content of comments.
+- Screen 1: 
+  - Fetch all the posts
+  - DDisplay the title and content of posts
+  - Click on post in the post list to navigate to new page showing the comments for the post.
+- Screen 2: 
+  - Fetch all the comments for certain post
+  - Display the post and username, email and content of comments
 
 # Getting Started
 To build this project, use "Import Project" in Android Studio or clone this project via Android Studio through following steps.

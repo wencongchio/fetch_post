@@ -13,6 +13,7 @@ API Endpoints:
 - Screen 2: 
   - Fetch all the comments for certain post
   - Display the post and username, email and content of comments
+  - Able to search comments, however, only limited to the content of comments. 
 
 # Getting Started
 To build this project, download this project and use "Import Project" in Android Studio or clone this project via Android Studio through following steps.

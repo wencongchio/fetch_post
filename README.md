@@ -15,7 +15,7 @@ API Endpoints:
   - Display the post and username, email and content of comments
 
 # Getting Started
-To build this project, use "Import Project" in Android Studio or clone this project via Android Studio through following steps.
+To build this project, download this project and use "Import Project" in Android Studio or clone this project via Android Studio through following steps.
 - Open Android Studio then go to <b>File -> New -> Project from Version Control</b>
 - In <b>Version control</b> drop menu, choose <b>Git</b>
 - Then paste https://github.com/wencongchio/fetch_post.git in URL and click on <b>Clone</b> button. 
